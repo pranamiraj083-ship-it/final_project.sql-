@@ -256,7 +256,8 @@ University-course-management-system/
 ## 👩‍💻 Author
 
 **Pranami Rajkumar**
-🔗 [GitHub Profile](https://github.com/pranamiraj083-ship-it/final_project.sql-.git)
+🔗 [GitHub Profile](https://github.com/pranamiraj083-ship-it)
+
 
 ---
 
