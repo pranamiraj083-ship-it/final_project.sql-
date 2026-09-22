@@ -188,7 +188,7 @@ WHERE e.CourseID IN (
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/vishakhamaisuriya17-hub/University-course-management-system.git
+   git clone https://github.com/pranamiraj083-ship-it/final_project.sql-.git
    cd University-course-management-system
    ```
 
@@ -198,6 +198,7 @@ WHERE e.CourseID IN (
 
    ```bash
    createdb university_course_db
+   or create database university_course_db
    ```
 
 3. **Run the SQL script**
@@ -226,6 +227,7 @@ University-course-management-system/
 │
 ├── university_course_management.sql   # Full schema, data, and queries
 └── README.md                          # Project documentation
+└── Final_project_outputs              # Query outputs 
 ```
 
 ---
@@ -253,8 +255,8 @@ University-course-management-system/
 
 ## 👩‍💻 Author
 
-**Vishakha Maisuriya**
-🔗 [GitHub Profile](https://github.com/vishakhamaisuriya17-hub)
+**Pranami Rajkumar**
+🔗 [GitHub Profile](https://github.com/pranamiraj083-ship-it/final_project.sql-.git)
 
 ---
 
